@@ -7,3 +7,6 @@ Use DDT_Launch.m to perform a DDT task and save data.
 
 Use DDT_Analysis to perform standard analysis such as entropy, mutual information and MLE of k parameter.
 
+Requirements:
+- Psychotoolbox
+- Gramm 
